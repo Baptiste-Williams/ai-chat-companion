@@ -50,3 +50,16 @@ php artisan serve
 
 
 Screenshots
+chat-bot interface:
+<img width="1907" height="1077" alt="image" src="https://github.com/user-attachments/assets/4aef0b08-8764-4a81-a709-187a754a0f7c" />
+
+Chat-bot "Dark Mode":
+<img width="1890" height="1078" alt="image" src="https://github.com/user-attachments/assets/da32275d-4470-4bc3-8071-8dc69333951f" />
+
+Chat-bot AI Responses:
+<img width="1886" height="1012" alt="image" src="https://github.com/user-attachments/assets/17143db0-09d6-4aee-bda2-bdfefbf83197" />
+
+<img width="1891" height="997" alt="image" src="https://github.com/user-attachments/assets/d82d9f80-8e80-4d00-a5fc-275ed1cde001" />
+
+
+
